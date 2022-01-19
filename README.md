@@ -17,7 +17,7 @@ their nature and there was a lot of help by real lawyers in this aspect. I want 
 checking my initial ideas of which laws to include. Any deficiency about any law is mine and not hers.
 <br><br>
 Finally, there are some ideas to improve the model. 
-<br>1)First of all, I wanted to have a way to include more laws inside the mix, giving 
+<br>1) First of all, I wanted to have a way to include more laws inside the mix, giving 
 the code some connections to a database. 
 <br>2) I want to have a way to filter the laws that are only procedures.
 <br>3) I want to gives the user a way to create their own forms so they can share them.
