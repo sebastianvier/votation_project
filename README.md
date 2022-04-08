@@ -4,7 +4,7 @@ This project is to find affinity between users and parties in a given country us
 The laws where gathered from the website of the congress in Peru, and from there the laws which had more relevance (there was
 some expert advise in this matter) where gathered to create the model. The model is prety simple, it gathers the information of the user on how much they are in favor or against the law 
 and then it contrast them with the average score each party gave that law through votation.
-<br><br<
+<br><br>
 The idea behind this model where twofold. First the model had to be prety simple so people could understand how was it
 working under the hood. The second, was that we wanted to use real decisions on laws, and not only propposals. In spanish there is 
 this saying: 'Entre el dicho y el hecho hay un gran trecho.' Which means that there is a great distance between what people
